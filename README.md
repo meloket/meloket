@@ -5,7 +5,7 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://media-thumbs.golden.com/CuShN9NjixqxThETcunHOGjdXU8=/100x100/smart/golden-storage-production.s3.amazonaws.com%2Ftopic_images%2F08d9121e60874b51aebce6a831d1b9ef.png" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
       <td><img src="https://icodrops.com/wp-content/uploads/2022/03/Aptos_logo-150x150.png" width="200"></td>
