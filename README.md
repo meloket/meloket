@@ -21,4 +21,4 @@
 I am Senior Full stack/Blockchain professional with hands-on experience building smart contracts and decentralized applications.
 Software engineer, decentralized application architect, certified Blockchain developer with expertise in smart contracts and decentralized applications development, also web development as well. Having strong knowledge of Solidity, C++, Golang, Move and Rust programming languages in particular. Has worked on blockchain projects as a developer, lead and consultant across numerous companies.
 Smart Contract / Ethereum / Solidity / C++ / Golang / Cosmos-SDK / Rust / Move / React.js / Node.js / 
-Substrate / Solana / Terra / Aptos / Cardano / EVM Integration / Decentralized Application Development.
+Substrate / Solana / NEAR / Aptos / Cardano / EVM Integration / Decentralized Application Development.
