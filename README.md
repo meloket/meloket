@@ -6,7 +6,7 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
       <td><img src="https://media-thumbs.golden.com/CuShN9NjixqxThETcunHOGjdXU8=/100x100/smart/golden-storage-production.s3.amazonaws.com%2Ftopic_images%2F08d9121e60874b51aebce6a831d1b9ef.png" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://near.org/wp-content/uploads/2021/09/brand-stack-300x300.png" width="200"></td>
       <td><img src="https://tradingplatforms.com/wp-content/uploads/2021/11/solana_logo.png" width="200"></td>
       <td><img src="https://icodrops.com/wp-content/uploads/2022/03/Aptos_logo-150x150.png" width="200"></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png" width="200"></td>
